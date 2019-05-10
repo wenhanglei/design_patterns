@@ -6,6 +6,7 @@ My Design Pattern Learning
 - ***Encapsulate what changes.***
 - ***Favor composition over inheritence.***
 - ***Program to interfaces, not implementations.***
+- ***Strive for loosely coupled designs between objects that interact.***
 
 ----
 
