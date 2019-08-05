@@ -7,12 +7,17 @@ My Design Pattern Learning
 - ***Favor composition over inheritence.***
 - ***Program to interfaces, not implementations.***
 - ***Strive for loosely coupled designs between objects that interact.***
+- ***Class should be open for extension, but close for modification.***
 
 ----
 
 ### Creational Patterns
 
 ### Strutural Patterns
+
+- [Decorator](src/org/wenhanglei/decorator)
+
+    > attaches additional responsibilities to an object dynamically.Decorator provide flexible alternative to subclassing for extending funtionality.
 
 ### Behaviorl Patterns
 
